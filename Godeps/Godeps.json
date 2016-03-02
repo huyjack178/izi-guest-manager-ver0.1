@@ -1,0 +1,23 @@
+{
+	"ImportPath": "github.com/huyjack178/izi-guest-manager-ver0.1",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"./cmd..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.2-177-g71f003c",
+			"Rev": "71f003c6e927d2550713e7637affb769977ece78"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "1ea25387ff6f684839d82767c1733ff4d4d15d0a"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Comment": "v1.1-29-g77366a4",
+			"Rev": "77366a47451a56bb3ba682481eed85b64fea14e8"
+		}
+	]
+}
